@@ -1,3 +1,1 @@
-PUBLICAÇÃO: extraia o ZIP e envie index.html e a pasta assets para a raiz da branch main. Não envie o ZIP fechado.
-Portal: os documentos não publicados são indicados como indisponíveis. Para cadastrar PDFs, adicione os arquivos em assets/documentos e preencha publishedDocs no index.html com a categoria, o nome e o caminho correspondente. Revise dados pessoais antes de publicar.
-As imagens de apoio geradas por IA estão identificadas. Esporte e meio ambiente usam ilustrações gráficas provisórias. Traduções novas: menus e principais títulos; textos adicionais ainda precisam de revisão multilíngue.
+Extraia o ZIP e envie index.html e assets ao GitHub. CNAME, robots.txt e sitemap.xml correspondem ao dominio atual. O PDF do relatorio 2026 nao foi fornecido. As fotos dos novos professores tambem estao incorporadas no HTML.
